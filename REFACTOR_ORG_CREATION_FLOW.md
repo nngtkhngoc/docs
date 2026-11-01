@@ -2,7 +2,6 @@
 
 > Tài liệu mô tả **thiết kế mục tiêu (to-be)** của luồng đăng ký — thẩm định — cấp tài khoản
 > tổ chức trên Ecolink. Đi kèm với `ORG_CREATION_FLOW.md` (bản as-is).
-> Mọi đường dẫn file được ghi tương đối từ thư mục gốc `ecolink/`.
 
 ---
 
