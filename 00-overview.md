@@ -11,7 +11,7 @@
 | [01-data-model.md](01-data-model.md) | ERD và từ điển dữ liệu của 4 DB Prisma cùng DB của ai-service |
 | [02-business-flows.md](02-business-flows.md) | Các luồng nghiệp vụ và sequence diagram |
 | [03-business-rules.md](03-business-rules.md) | Bảng business rule BR-xxx |
-| [04-state-machines.md](04-state-machines.md) | Vòng đời trạng thái của các entity |
+| [04-state-machines.md](04-state-machines.md) | Vòng đời trạng thái c ủa các entity |
 | [05-permissions.md](05-permissions.md) | Xác thực và ma trận phân quyền |
 | [06-frontend.md](06-frontend.md) | Web client: route, màn hình → API, state, xử lý lỗi |
 | [99-open-issues.md](99-open-issues.md) | Vấn đề mở, nghi bug, lỗ hổng |
